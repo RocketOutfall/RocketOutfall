@@ -6,7 +6,7 @@ output:
     toc_float:
       collapsed: false
       smooth_scroll: true
-    css: lib/style.css
+    css: bootstrap/css/bootstrap-theme.css
 --- 
 
 ```{r setup, include=FALSE}
