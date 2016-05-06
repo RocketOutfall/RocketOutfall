@@ -12,31 +12,44 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-## Quarterly Results {.tabset}
+## Working Project {.tabset}
 
-### R Markdown
+### Mission Statement
+To remove hurdles preventing the efficient treatment of contaminated groundwater at the Santa Susana remediation site and develop tools that can be used broadly to solve similar water discharge problems.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+##### Objectives:
+Evaluate the potential positive and negative impacts of transforming ephemeral channels into perennial streambeds through the discharge of treated groundwater.
+Identify cost-efficient and innovative alternatives to the proposed surface discharge.
+Mitigate negative impacts of the proposed plan on local species and site hydrology.
+Establish monitoring and reporting plans to ensure that potential impacts are minimized and create strategies to address possible impacts.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+### Project Background
+Underneath the Santa Susana Field Laboratory sits a vast sandstone bedrock that serves as a porous aquifer for the site’s groundwater. As the Santa Susana rocketry program advanced the United States through the space age, trichloroethylene (TCE) from these rocket trials contaminated the ground, settling into the aquifer’s sandstone pores.The risk now is that the TCE may migrate to surface waters and ‘daylight’ at springs. The EPA has directed that the groundwater in the aquifer should be treated to remove the TCE: It will be a long process of diminishing returns as the water rinses through the sandstone, removing the TCE a little bit at a time. This water, pumped from the aquifer and run through a state-of-the-art treatment process, must be returned to the aquifer somehow. The most efficient option is to return the water to the ephemeral creek beds on the Santa Susana site, but that raises questions that have stalled the project -- will the natural ecology of these usually dry creek beds be adversely affected by this influx of water? 
 
-```{r cars}
-summary(cars)
-```
+Our team approached Boeing, the current site owner, with one question -- what can we do to help the remediation of the Santa Susana site? The answer we received was: Help to answer the questions surrounding the discharge of this groundwater, so that all options for groundwater return can be considered in the design of the groundwater treatment schedule.
 
-### Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-
-## Team Members
+### Team Members
+Contact: rocketoutfall@lists.bren.ucsb.edu
 
 #### Elise
+##### Project Manager
+Elise is interested in remediation programs associated with technological advances. Novel energy technologies can propel society into the next age, and beyond -- but the cost remains, and must be addressed if we are to keep moving forward in an equitable fashion. She has a strong analytical streak, and is a capable programmer, wet-bench chemist, and visual artist. Her skills include: Global and U.S. Federal Chemical Regulatory Compliance, Wet/Bench Chemistry and Protocol Design, Data Analysis, Database Management, Process Automation, and Scientific Instrument Operations and Repair.
+
 #### Lina
+##### Data Manager
+
 #### Alex
+##### Financial and Outreach Manager
+
 #### Sodavy
+##### Chief Editor
+
+### Deliverables
+Flow Regime and Biota Movement Model
+Biological and Hydrological Impact Assessment
+Mitigation Plan for Environmental Impacts
+Evaluation of Project Alternatives
+Cost-benefit Analysis
+Monitoring Program
+
+### Photo Gallery
