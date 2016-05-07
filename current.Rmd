@@ -1,0 +1,20 @@
+---
+title: "Current Work"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+    css: bootstrap/css/bootstrap-theme.css
+--- 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*Current Projects and Things*
+
+### Item 1
+
+### Item 2

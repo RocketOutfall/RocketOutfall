@@ -1,5 +1,5 @@
 ---
-title: "team"
+title: Team and Advisors
 output:
   html_document:
     toc: true
@@ -13,28 +13,31 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Team Members
+### Contact
 
-Contact the RocketFall Team: rocketoutfall@lists.bren.ucsb.edu
+E-mail: rocketoutfall@lists.bren.ucsb.edu
 
-#### Elise
-##### Project Manager
-Elise is interested in remediation programs associated with technological advances. Novel energy technologies can propel society into the next age, and beyond -- but the cost remains, and must be addressed if we are to keep moving forward in an equitable fashion. She has a strong analytical streak, and is a capable programmer, wet-bench chemist, and visual artist. Her skills include: Global and U.S. Federal Chemical Regulatory Compliance, Wet/Bench Chemistry and Protocol Design, Data Analysis, Database Management, Process Automation, and Scientific Instrument Operations and Repair.
+## Bren Working Group
+### Elise Wall
+#### Project Manager
+Elise is interested in remediation programs associated with technological advances. She has a strong analytical streak, is a capable programmer, wet-bench chemist, and visual artist. Currently, she is pursuing a Master's focused on Pollution Prevention and Remediation at UCSB's Bren School of Environmental Science and Management. Previously she recieved her B.S. in Biological Chemistry from Beloit College, and spent three years building professional experience with Global and U.S. Federal Chemical Regulatory Compliance, Wet/Bench Chemistry and Protocol Design, Data Analysis, Database Management, Process Automation, and Scientific Instrument Operations and Repair.
 
-#### Lina
-##### Data Manager
+### Lina Barbosa
+#### Data Manager
 
-#### Alex
-##### Financial and Outreach Manager
+### Alex Tremblay
+#### Financial Manager
+Alex has a background in classical French cuisine, ecology and native habitat restoration. He has a B.S. in Environmental Studies with a focus in terrestrial ecology, community sustainability and professional writing from the University of California, Santa Barbara. His focus of study at the Bren School is Pollution Prevention and Remediation. He hopes to work with companies and community organizations to reduce the pollution footprint of industrial and urban activities. 
 
-#### Sodavy
-##### Chief Editor
+### Sodavy Ou
+#### Chief Editor
 
-#### Thomas Dunne
-##### Faculty Advisor
+## Advisors
+### Thomas Dunne
+#### Faculty Advisor
 
-#### Colleen Devin
-##### PhD Advisor
+### Colleen Devin
+#### PhD Advisor
 
-#### Exteral Advisors
-##### TBD
+### Exteral Advisors
+#### TBD
