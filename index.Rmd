@@ -6,13 +6,9 @@ output:
     css: bootstrap/css/bootstrap-theme.css
 --- 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ***
 
 ### Mission Statement
-Our team is working to remove hurdles preventing the efficient treatment of contaminated groundwater at the Santa Susana Field Laboratory and develop tools that can be used broadly to solve similar water discharge problems. The project's primary goal is the evaluation and mitigation of environmental impacts from continual treated groundwater discharge at Santa Susana's Outfall 2 Drainage.
+Our team is working to remove hurdles preventing the efficient treatment of contaminated groundwater at the Santa Susana Field Laboratory and develop tools that can be used broadly to solve similar water discharge problems. The project's primary goal is the evaluation and mitigation of environmental impacts from continual treated groundwater discharge at Outfall 2 located in the Bell Canyon watershed.
 
 <a href="about.html" class="btn btn-primary btn-md"><span class="glyphicon glyphicon-star" aria-hidden="true"></span> Learn More...</a>
