@@ -1,5 +1,5 @@
 ---
-title: "SSFL Groundwater Discharge Project"
+title: "Santa Susana Surface Water Impacts"
 output:
   html_document:
     toc: true
@@ -12,6 +12,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+*Evaluation and Mitigation of Environmental Impacts from Treated Groundwater Discharge at Santa Susana Outfall 2 Drainage.*
 
 ### Mission Statement
 
@@ -30,13 +31,13 @@ Our team approached Boeing, the current site owner, with one question -- what ca
 
 ### Deliverables
 * Flow Regime and Biota Movement Model
- + Biological and Hydrological Impact Assessment
- + Mitigation Plan for Environmental Impacts
+    + Biological and Hydrological Impact Assessment
+    + Mitigation Plan for Environmental Impacts
 * Evaluation of Project Alternatives
- + Cost-benefit Analysis
+    + Cost-benefit Analysis
 * Monitoring Program
 
-### More Info
+### More Information
 This is a captone group project for the Bren School of Environmental Science and Management at the University of California Santa Barbara:
 
 [![](images/brenlogo.png)](http://www.esm.ucsb.edu/)
