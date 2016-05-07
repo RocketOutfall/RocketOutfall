@@ -30,11 +30,13 @@ Our team approached Boeing, the current site owner, with one question -- what ca
 
 ### Deliverables
 * Flow Regime and Biota Movement Model
-  + Biological and Hydrological Impact Assessment
-  + Mitigation Plan for Environmental Impacts
+ + Biological and Hydrological Impact Assessment
+ + Mitigation Plan for Environmental Impacts
 * Evaluation of Project Alternatives
-  + Cost-benefit Analysis
+ + Cost-benefit Analysis
 * Monitoring Program
 
-### Info
-![](images/brenlogo.png) 
+### More Info
+This is a captone group project for the Bren School of Environmental Science and Management at the University of California Santa Barbara:
+
+[![](images/brenlogo.png)](http://www.esm.ucsb.edu/)
