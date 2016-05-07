@@ -12,6 +12,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 *Evaluation and Mitigation of Environmental Impacts from Continual Treated Groundwater Discharge at Santa Susana Outfall 2 Drainage.*
 
 ### Mission Statement
