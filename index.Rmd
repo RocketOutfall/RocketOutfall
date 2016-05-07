@@ -37,6 +37,9 @@ Our team approached Boeing, the current site owner, with one question -- what ca
     + Cost-benefit Analysis
 * Monitoring Program
 
+### Client: Boeing
+Boeing is currently running the remedation activites at the Santa Susana site.
+
 ### More Information
 This is a captone group project for the Bren School of Environmental Science and Management at the University of California Santa Barbara:
 
