@@ -22,7 +22,7 @@ E-mail: rocketoutfall@lists.bren.ucsb.edu
 Elise is interested in remediation programs associated with technological advances. Novel energy technologies can propel society into the next age, and beyond -- but the cost remains, and must be addressed if we are to keep moving forward in an equitable fashion. She has a strong analytical streak, is a capable programmer, wet-bench chemist, and visual artist. Her skills include: Global and U.S. Federal Chemical Regulatory Compliance, Wet/Bench Chemistry and Protocol Design, Data Analysis, Database Management, Process Automation, and Scientific Instrument Operations and Repair.
 
 ### Lina Barbosa
-: Data Manager
+#### Data Manager
 
 ### Alex Tremblay
 #### Financial and Outreach Manager
