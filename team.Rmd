@@ -1,5 +1,5 @@
 ---
-title: 
+title: The Working Group
 output:
   html_document:
     toc: true
@@ -13,28 +13,31 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Team Members
+### Contact the Team
 
-Contact the RocketFall Team: rocketoutfall@lists.bren.ucsb.edu
+E-mail: rocketoutfall@lists.bren.ucsb.edu
 
-#### Elise
-##### Project Manager
+### Elise
+#### Project Manager
 Elise is interested in remediation programs associated with technological advances. Novel energy technologies can propel society into the next age, and beyond -- but the cost remains, and must be addressed if we are to keep moving forward in an equitable fashion. She has a strong analytical streak, and is a capable programmer, wet-bench chemist, and visual artist. Her skills include: Global and U.S. Federal Chemical Regulatory Compliance, Wet/Bench Chemistry and Protocol Design, Data Analysis, Database Management, Process Automation, and Scientific Instrument Operations and Repair.
 
-#### Lina
-##### Data Manager
+### Lina Barbosa
+#### Data Manager
 
-#### Alex
-##### Financial and Outreach Manager
+### Alex Tremblay
+#### Financial and Outreach Manager
 
-#### Sodavy
-##### Chief Editor
+### Sodavy Ou
+#### Chief Editor
 
-#### Thomas Dunne
-##### Faculty Advisor
+### Thomas Dunne
+#### Faculty Advisor
 
-#### Colleen Devin
-##### PhD Advisor
+### Colleen Devin
+#### PhD Advisor
 
-#### Exteral Advisors
-##### TBD
+### Exteral Advisors
+#### TBD
+
+### Paul Costa
+#### Boeing Client Contact
