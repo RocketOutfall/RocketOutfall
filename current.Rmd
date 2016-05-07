@@ -9,11 +9,7 @@ output:
     css: bootstrap/css/bootstrap-theme.css
 --- 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-*Current Projects and Things*
+***
 
 ### Item 1
 

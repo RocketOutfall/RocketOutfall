@@ -1,5 +1,5 @@
 ---
-title: From the SSFL Site
+title: "From the SSFL Site"
 output:
   html_document:
     toc: true
@@ -9,9 +9,6 @@ output:
     css: bootstrap/css/bootstrap-theme.css
 --- 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 ### Group Photos
 
 ### Site Tours

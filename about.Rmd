@@ -1,5 +1,5 @@
 ---
-title: "Santa Susana Surface Water Impacts"
+title: "About RocketOutfall"
 output:
   html_document:
     toc: true
@@ -8,10 +8,6 @@ output:
       smooth_scroll: true
     css: bootstrap/css/bootstrap-theme.css
 --- 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ***
 
