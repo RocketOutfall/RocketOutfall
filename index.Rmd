@@ -9,6 +9,6 @@ output:
 ***
 
 ### Mission Statement
-Our team is working to remove hurdles preventing the efficient treatment of contaminated groundwater at the Santa Susana Field Laboratory and develop tools that can be used broadly to solve similar water discharge problems. The project's primary goal is the evaluation and mitigation of environmental impacts from continual treated groundwater discharge at Outfall 2 located in the Bell Canyon watershed.
+##### Our team is determining the best way to deal with purified groundwater at the former Santa Susana Field Laboratory, and developing tools that can be used broadly to solve similar water discharge problems. The project's primary goal is the evaluation and mitigation of environmental impacts from the continual discharge of this treated groundwater at Outfall 2, located in the Bell Canyon watershed.
 
 <a href="about.html" class="btn btn-primary btn-md"><span class="glyphicon glyphicon-star" aria-hidden="true"></span> Learn More...</a>
