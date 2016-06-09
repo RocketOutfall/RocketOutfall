@@ -8,9 +8,11 @@ output:
       in_header: header.md
 --- 
 
-<div style="height: 600px; width: 100%; color: #FFF; display:flex; justify-content:center; align-items:center;">
+<div style="height: 500px; width: 100%; color: #FFF; display:flex; justify-content:center; align-items:center; text-align: center;">
 
-<h1 style="font-family: Courgette, cursive; font-size: 30px;">Finding the best solution for loads of treated groundwater</h1>
+<span style="font-family: Oswald, bold; font-size: 70px;">SHORT TITLE TITLE</span>
+<br />
+<span style="font-family: Courgette, cursive; font-size: 30px;">Finding the best solution for loads of treated groundwater</span>
 
 </div>
 
