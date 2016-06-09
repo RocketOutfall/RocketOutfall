@@ -4,6 +4,8 @@ output:
   html_document:
     toc: false
     css: bootstrap/css/bootstrap-theme.css
+    includes:
+      in_header: header.txt
 --- 
 
 <br></br>
