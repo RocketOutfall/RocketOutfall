@@ -2,11 +2,8 @@
 title: "Team and Advisors"
 output:
   html_document:
-    toc: true
-    toc_float:
-      collapsed: false
-      smooth_scroll: true
-    css: bootstrap/css/bootstrap-theme.css
+    toc: false
+    css: bootstrap/css/bootstrap-theme2.css
 ---
 
 ***
