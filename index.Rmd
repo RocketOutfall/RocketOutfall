@@ -1,17 +1,63 @@
 ---
-title: "Santa Susana Field Laboratory: TCE Remediation"
+title: ""
 output:
   html_document:
     toc: false
     css: bootstrap/css/bootstrap-theme.css
 --- 
 
-***
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<center>
 
-### PITHY PHRASE
+# Silly Dramatic Statement Goes Here
 
-##### Determining the best way to deal with purified groundwater at the former Santa Susana Field Laboratory, developing tools that can be used broadly to solve similar water discharge problems. The project's primary goal is the evaluation and mitigation of environmental impacts from the continual discharge of this treated groundwater at Outfall 2, located in the Bell Canyon watershed.
+</center>
+<br></br>
+<br></br>
+
+## Determining the best way to deal with purified groundwater at the former Santa Susana Field Laboratory, developing tools that can be used broadly to solve similar water discharge problems. The project's primary goal is the evaluation and mitigation of environmental impacts from the continual discharge of this treated groundwater at Outfall 2, located in the Bell Canyon watershed.
 
 <a href="about.html" class="btn btn-primary btn-md"><span class="glyphicon glyphicon-star" aria-hidden="true"></span> Learn More...</a>
 
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+## More Information
+### Project Background
+Underneath the Santa Susana Field Laboratory sits a vast sandstone bedrock that serves as a porous aquifer for the site's groundwater. As the Santa Susana rocketry program advanced the United States through the space age, trichloroethylene (TCE) from these rocket trials contaminated the ground, settling into the aquifer's sandstone pores. The risk now is that the TCE may migrate off site or to surface waters and 'daylight' at springs. 
+
+The California Environmental Protection Agency has directed that the groundwater in the aquifer be treated to remove the TCE. However, the TCE is adsorbed to sandstone bedrock, and there will be a long process of diminishing returns as the water rinses through the sandstone, removing the TCE a little bit at a time. This water will be pumped from the aquifer and run through a state-of-the-art treatment process at a rate 60 gallons per minute for at least the next 10 years. 
+
+The most efficient water management option is to return the water to the ephemeral creek beds on the Santa Susana site, but that raises questions that have stalled the project -- will the natural ecology of these usually dry creek beds be adversely affected by this influx of water? 
+
+Our team approached Boeing, the current site owner, with one question -- what can we do to help the remediation of the Santa Susana site? The answer we received was: Help to answer the questions surrounding the discharge of this groundwater, so that all options for groundwater return can be considered in the design of the groundwater treatment schedule.
+
+### Objectives
+1. Evaluate the potential positive and negative impacts of transforming ephemeral channels into perennial streambeds through the discharge of treated groundwater.
+
+2. Identify cost-efficient and innovative alternatives to the proposed surface discharge.
+
+3. Mitigate negative impacts of the proposed plan on local species and site hydrology.
+
+4. Establish monitoring and reporting plans to ensure that potential impacts are minimized and create strategies to address possible impacts.
+
+### Client: Boeing
+Boeing is currently running the remedation activites at the Santa Susana site.
+
+<a href="http://www.boeing.com/principles/environment/santa-susana/index.page" class="btn btn-primary btn-md"><span class="glyphicon glyphicon-star" aria-hidden="true"></span> Learn More About Boeing's Remediation of SSFL</a>
+
+### More Information
+This is a capstone group project for the Bren School of Environmental Science and Management at the University of California Santa Barbara.
+
+[![](images/brenlogo.png)](http://www.esm.ucsb.edu/)
 

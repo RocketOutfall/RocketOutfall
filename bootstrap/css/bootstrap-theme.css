@@ -24,8 +24,9 @@ body {
     background-size: contain;
 }
 
-.level2 {
-  background-color: rgba(255, 255, 255, 0.75);
+.level1 {
+  vertical-align: center;
+  color: white;
   padding: 6px;
   padding-left: 12px;
   padding-right: 12px;
@@ -33,13 +34,23 @@ body {
   margin-bottom: 12px;
 }
 
+.level2 {
+  padding: 6px;
+  color: white;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 6px;
+  margin-bottom: 12px;
+}
+
 .level3 {
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(255, 255, 255, 0.75);
   padding: 6px;
   padding-left: 12px;
   padding-right: 12px;
   border-radius: 6px;
   margin-bottom: 12px;
+  color: black;
 }
 
 h2 {

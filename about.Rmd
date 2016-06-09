@@ -2,10 +2,7 @@
 title: "About RocketOutfall"
 output:
   html_document:
-    toc: true
-    toc_float:
-      collapsed: false
-      smooth_scroll: true
+    toc: false
     css: bootstrap/css/bootstrap-theme.css
 --- 
 
