@@ -1,14 +1,7 @@
 title: "RocketOutfall"
-left:
-  - text: "About"
-    href: about.html
-  - text: "Current Work"
-    href: current.html
-  - text: "Team"
-    href: team.html
-  - text: "Photo Gallery"
-    href: gallery.html
 right:
+  - text: "Meet the Team"
+    href: team.html
   - icon: fa-github fa-lg
     href: https://github.com/rocketoutfall
   - icon: glyphicon glyphicon-phone
