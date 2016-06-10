@@ -51,6 +51,7 @@ Boeing is currently running the remedation activites at the Santa Susana site.
 <div class = "thumbnail">
   <img src=images/bg.jpg class="img-rounded" img class="img-responsive" width=400, height=300>
   <img src=images/TestStand1.jpg class="img-rounded" img class="img-responsive" width=400, height=300>
+  <img src=images/lizard.jpg class="img-rounded" img class="img-responsive" width=400, height=300>
 </div>
 
 
