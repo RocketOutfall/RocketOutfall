@@ -12,7 +12,7 @@ output:
 
 <span style="font-family: Oswald, bold; font-size: 80px;">PREVENT DAYLIGHTING</span>
 <br />
-<span style="font-family: Courgette; font-size: 23px;">Finding water management solutions to allow groundwater treatment</span>
+<span style="font-family: Courgette; font-size: 23px;">Finding water management solutions for continual groundwater treatment</span>
 
 </div>
 <div style="text-align: center">
@@ -23,22 +23,20 @@ output:
 <br />
 
 ##Project Background
-Underneath the Santa Susana Field Laboratory sits a vast sandstone bedrock that serves as a porous aquifer for the site's groundwater. As the Santa Susana rocketry program progressed, trichloroethylene (TCE) from these rocket trials contaminated the ground, settling into the aquifer's sandstone pores. The risk now is that the TCE may migrate off site or to surface waters and 'daylight' at springs. 
+The Santa Susana Field Laboratory (SSFL) was a rocket engine development and testing site for nearly 60 years, building rockets that sent astronauts to the Moon. The industrial chemicals used during rocket engine testing, namely tetrachloroethylene (TCE), contaminated the groundwater and settled into the fractures and pores of the sandstone bedrock. The Boeing Company, as the current owner of the property, is committed to managing the groundwater and contaminant plums at the 2,850 acre site. Mitigation of groundwater contamination is expected to continue for decades. 
 
-The California Environmental Protection Agency has directed that the groundwater in the aquifer be treated to remove the TCE. However, the TCE is adsorbed to sandstone bedrock, and there will be a long process of diminishing returns as the water rinses through the sandstone, removing the TCE a little bit at a time. This water will be pumped from the aquifer and run through a state-of-the-art treatment process at a rate 60 gallons per minute for at least the next 10 years. 
+##Problem
+Groundwater management at SSFL includes the prevention of **_daylighting_** – above ground channelization – contaminated water. To achieve this goal, Boeing has elected to pump and treat groundwater to drawdown water levels below surface springs. Unfortunately, there is not, at present, a sustainable location to **_outfall_** treated groundwater, and treatment operations are sporadic.
 
-The most efficient water management option is to return the water to the ephemeral creek beds on the Santa Susana site, but that raises questions that have stalled the project -- will the natural ecology of these usually dry creek beds be adversely affected by this influx of water? 
+##Finding Solutions
+By providing an analysis of possible options, this research aims to find a suitable outfall environment that would allow continual groundwater treatment at the Santa Susana Field Laboratory
 
-Our team approached Boeing, the current site owner, with one question -- what can we do to help the remediation of the Santa Susana site? The answer we received was: Help to answer the questions surrounding the discharge of this groundwater, so that all options for groundwater return can be considered in the design of the groundwater treatment schedule.
 
 ##Objectives
-1. Evaluate the potential positive and negative impacts of transforming ephemeral channels into perennial streambeds through the discharge of treated groundwater.
+1.	Evaluate how channel flow from the discharge of treated groundwater might influence soil moisture and vegetation communities by transforming ephemeral channels into perennial streambeds.
 
-2. Identify cost-efficient and innovative alternatives to the proposed surface discharge.
+2.	Investigate useful alternatives to the proposed surface discharge.
 
-3. Mitigate negative impacts of the proposed plan on local species and site hydrology.
-
-4. Establish monitoring and reporting plans to ensure that potential impacts are minimized and create strategies to address possible impacts.
 
 ##Client: Boeing
 Boeing is currently running the remedation activites at the Santa Susana site.
