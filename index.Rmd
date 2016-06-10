@@ -60,12 +60,6 @@ Boeing is currently running the remedation activites at the Santa Susana site.
 
 <a href="http://www.boeing.com/principles/environment/santa-susana/index.page" class="btn btn-primary btn-md"><span class="glyphicon glyphicon-star" aria-hidden="true"></span> Learn More About Boeing's Remediation of SSFL</a>
 
-##Photo Gallery
-<div class = "row">
-  <div class="col-sm-6"><img src=images/lizard.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
-  <div class="col-sm-6"><img src=images/TestStand1.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
-</div>
-
 ##More Information
 This is a capstone group project for the Bren School of Environmental Science and Management at the University of California Santa Barbara.
 
