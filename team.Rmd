@@ -31,10 +31,13 @@ Sodavy loves running around in the Redwoods and along California's beaches. She 
 ## Advisors
 ### Thomas Dunne
 #### Faculty Advisor
+<div style="width:150px">
+![](C:\Users\Sodavy\Pictures\RocketOutfall\Tom.jpg)
+</div>
 Thomas Dunne conducts field and theoretical research in fluvial geomorphology and in the application of hydrology, sediment transport, and geomorphology to landscape management and hazard analysis. Since coming to the Bren School in 1996, Professor Dunne has studied erosion in the Andes, and hydrology, sediment transport, and floodplain sedimentation in the Amazon River basin of Brazil and Bolivia and the Central Valley of California.
 
 ### Colleen Devlin
 #### PhD Advisor
-<div style="width:100px">
+<div style="width:150px">
 ![](C:\Users\Sodavy\Pictures\RocketOutfall\Colleen.jpg)
-</div>
+</div> 
