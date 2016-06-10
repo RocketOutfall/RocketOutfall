@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "RocketOutfall"
 output:
   html_document:
     toc: false
@@ -37,9 +37,15 @@ By providing an analysis of possible options, this research aims to find a suita
 
 
 ##Objectives
-1.	Evaluate how channel flow from the discharge of treated groundwater might influence soil moisture and vegetation communities by transforming ephemeral channels into perennial streambeds.
 
-2.	Investigate useful alternatives to the proposed surface discharge.
+<div class="row">
+<div class="col-md-7">
+Evaluate how channel flow from the discharge of treated groundwater might influence soil moisture and vegetation communities by transforming ephemeral channels into perennial streambeds.
+</div>
+<div>
+Investigate useful alternatives to the proposed surface discharge.
+</div>
+</div>
 
 
 ##Client: Boeing
@@ -48,14 +54,10 @@ Boeing is currently running the remedation activites at the Santa Susana site.
 <a href="http://www.boeing.com/principles/environment/santa-susana/index.page" class="btn btn-primary btn-md"><span class="glyphicon glyphicon-star" aria-hidden="true"></span> Learn More About Boeing's Remediation of SSFL</a>
 
 ##Photo Gallery
-<div class = "thumbnail">
-  <img src=images/bg.jpg class="img-rounded" img class="img-responsive" width=400, height=300>
-  <img src=images/TestStand1.jpg class="img-rounded" img class="img-responsive" width=400, height=300>
-  <img src=images/lizard.jpg class="img-rounded" img class="img-responsive" width=400, height=300>
+<div class = "row">
+  <div class="col-sm-6"><img src=images/lizard.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
+  <div class="col-sm-6"><img src=images/TestStand1.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
 </div>
-
-
-
 
 ##More Information
 This is a capstone group project for the Bren School of Environmental Science and Management at the University of California Santa Barbara.
@@ -63,5 +65,3 @@ This is a capstone group project for the Bren School of Environmental Science an
 <div style="width:500px">
 [![](images/brenlogo.png)](http://www.esm.ucsb.edu/)
 </div>
-
-
