@@ -51,3 +51,17 @@ Thomas Dunne conducts field and theoretical research in fluvial geomorphology an
 <div style="width:150px">
 ![](C:\Users\Sodavy\Pictures\RocketOutfall\Colleen.jpg)
 </div> 
+
+### Frank Davis 
+#### External Advisor
+<div style="width:150px">
+![](C:\Users\Sodavy\Pictures\RocketOutfall\Frank.jpg)
+</div>
+Frank Davis brings conservation science and geographical analysis to bear in land use planning and the conservation of wild species. Davis heads the Biogeography Lab at the Bren School, and his research focuses on the landscape ecology of California plant communities, the design of protected-area network, rangeland and farmland conservation, and the biological implications of regional climate change.
+
+### Christina (Naomi) Tague
+#### External Advisor 
+<div style="width:150px">
+![](C:\Users\Sodavy\Pictures\RocketOutfall\Naomi.jpg)
+</div>
+Naomi's research is focused on the interactions between hydrology and ecosystem processes and, specifically, how eco-hydrologic systems are altered by changes in land use and climate. Much of her work involves developing and using spatial simulation models to integrate data from multiple field-based monitoring studies in order to generalize results to larger watersheds. Professor Tague is currently modeling the impacts of climate change on stream-flow patterns in the western United States and examining how urbanization alters drainage patterns and associated biogeochemical cycling in watersheds in Baltimore, Maryland, and Southern California.
