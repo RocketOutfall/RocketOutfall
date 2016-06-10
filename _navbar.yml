@@ -1,8 +1,9 @@
 title: "RocketOutfall"
-right:
+left:
   - text: "Meet the Team"
     href: team.html
+right:
   - icon: fa-github fa-lg
-    href: https://github.com/rocketoutfall
+    href: https://github.com/rocketoutfall/rocketoutfall.github.io/
   - icon: glyphicon glyphicon-phone
     href: https://rocketoutfall.slack.com
