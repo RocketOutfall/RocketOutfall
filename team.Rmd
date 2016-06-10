@@ -13,7 +13,7 @@ E-mail: rocketoutfall@lists.bren.ucsb.edu
 
 <div class="row">
   <div class="col-md-2">
-  ![](images/Elise.png)
+  <img src=images/Elise.png class="img-rounded" />
   </div>
   <div>
 ### Elise Wall
@@ -23,7 +23,7 @@ Elise is interested in remediation programs associated with technological advanc
 <br /><br />
 <div class="row">
   <div class="col-md-2">
-  ![](images/Lina.png)
+  <img src=images/Lina.png class="img-rounded" />
   </div>
   <div>
 ### Lina Barbosa
@@ -33,7 +33,7 @@ Lina Barbosa is originally from Bogotá, Colombia. She has two bachelor degrees 
 <br /><br />
 <div class="row">
   <div class="col-md-2">
-  ![](images/Alex.png)
+  <img src=images/Alex.png class="img-rounded" />
   </div>
   <div>
 ### Alex Tremblay
@@ -43,7 +43,7 @@ Alex has a background in classical French cuisine, ecology and native habitat re
 <br /><br />
 <div class="row">
   <div class="col-md-2">
-  ![](images/Sodavy.jpg)
+  <img src=images/Sodavy.jpg class="img-rounded" />
   </div>
   <div>
 ### Sodavy Ou
@@ -56,7 +56,7 @@ Sodavy loves running around in the Redwoods and along California's beaches. She 
 <br /><br />
 <div class="row">
   <div class="col-md-2">
-  ![](images/Tom.jpg)
+  <img src=images/Tom.jpg class="img-rounded" />
   </div>
   <div>
 ## Advisors
@@ -67,7 +67,7 @@ Thomas Dunne conducts field and theoretical research in fluvial geomorphology an
 <br /><br />
 <div class="row">
   <div class="col-md-2">
-  ![](images/Colleen.jpg)
+  <img src=images/Colleen.jpg class="img-rounded" />
   </div>
   <div>
 ### Colleen Devlin
@@ -76,7 +76,7 @@ Thomas Dunne conducts field and theoretical research in fluvial geomorphology an
 <br /><br />
 <div class="row">
   <div class="col-md-2">
-  ![](images/Frank.jpg)
+  <img src=images/Frank.jpg class="img-rounded" />
   </div>
   <div>
 ### Frank Davis 
@@ -86,7 +86,7 @@ Frank Davis brings conservation science and geographical analysis to bear in lan
 <br /><br />
 <div class="row">
   <div class="col-md-2">
-  ![](images/Naomi.jpg)
+  <img src=images/Naomi.jpg class="img-rounded" />
   </div>
   <div>
 ### Christina (Naomi) Tague

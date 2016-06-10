@@ -35,7 +35,7 @@ The Santa Susana Field Laboratory (SSFL) was a **rocket** engine development and
 
 ##Problem
 <div style="row">
-<div class="col-sm-4"><img src=images/bg.jpg class="img-rounded" width=250 height=300 /></div>
+<div class="col-sm-4"><img src=images/lizard.jpg class="img-rounded" width=250 height=300 /></div>
 <div>
 Groundwater management at SSFL includes the prevention of **daylighting** – above ground channelization – contaminated water. To achieve this goal, Boeing has elected to pump and treat groundwater to drawdown water levels below surface springs. Unfortunately, there is not, at present, a sustainable location to **outfall** treated groundwater, and treatment operations are sporadic.
 </div></div>
@@ -50,16 +50,15 @@ By providing an analysis of possible options, this research aims to find a suita
 </div></div>
 <br />
 <br />
+<br />
 
 ##Objectives
-<div style="text-align:right"><img src=images/lizard.jpg class="img-rounded" width=250 height=300 /></div>
 1.	Evaluate how channel flow from the discharge of treated groundwater might influence soil moisture and vegetation communities by transforming ephemeral channels into perennial streambeds.
 
 2.  Investigate useful alternatives to the proposed surface discharge.
 
 
 ##Client: Boeing
-<div style="text-align: left"><img src=images/bg.jpg class="img-rounded" width=250 height=300 /></div>
 Boeing is currently running the remedation activites at the Santa Susana site.
 
 <a href="http://www.boeing.com/principles/environment/santa-susana/index.page" class="btn btn-primary btn-md"><span class="glyphicon glyphicon-star" aria-hidden="true"></span> Learn More About Boeing's Remediation of SSFL</a>
