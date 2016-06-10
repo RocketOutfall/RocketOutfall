@@ -54,3 +54,4 @@ output:
   <div class="col-sm-6"><img src=images/Animals/Snake.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
 </div>
 
+
