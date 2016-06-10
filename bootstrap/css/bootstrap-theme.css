@@ -19,13 +19,27 @@ html {
 }
 
 body {
-    background-image: url('bg2.jpg');
-    background-repeat: no-repeat;
-    background-size: contain;
 }
 
 .title {
   visibility: hidden;
+}
+
+.splash {
+  border-color: red; 
+  z-index: -1;
+  width: 100%; 
+  height: 675px; 
+  color: #FFF; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  text-align: center; 
+  position: absolute; 
+  left: 0; 
+  top: 0; 
+  background-image: url("bg2.jpg");
+  background-size: cover;
 }
 
 .level1 {
