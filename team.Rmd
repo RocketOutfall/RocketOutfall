@@ -13,6 +13,7 @@ E-mail: rocketoutfall@lists.bren.ucsb.edu
 ## Bren Working Group
 ### Elise Wall
 #### Project Manager
+
 Elise is interested in remediation programs associated with technological advances. She has a strong analytical streak, is a capable programmer, wet-bench chemist, and visual artist. Currently, she is pursuing a Master's focused on Pollution Prevention and Remediation at UCSB's Bren School of Environmental Science and Management. Previously she recieved her B.S. in Biological Chemistry from Beloit College, and spent three years building professional experience with Global and U.S. Federal Chemical Regulatory Compliance, Wet/Bench Chemistry and Protocol Design, Data Analysis, Database Management, Process Automation, and Scientific Instrument Operations and Repair.
 
 ### Lina Barbosa
@@ -34,6 +35,3 @@ Thomas Dunne conducts field and theoretical research in fluvial geomorphology an
 
 ### Colleen Devlin
 #### PhD Advisor
-
-### External Advisors
-#### TBD
