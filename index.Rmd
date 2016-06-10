@@ -43,7 +43,7 @@ The Santa Susana Field Laboratory was a rocket engine development and testing si
 <div style="row">
 <div class="col-sm-4"><img src=images/lizardcrop.jpg class="img-rounded" width=250 height=300 /></div>
 <div style="text-align: justify">
-By evaluating possible ways to deal with the huge influx of water (60 gallons per minute), this research aims to find suitable water *outfall* environments that would allow groundwater to be treated continuously at the Santa Susana Field Laboratory.
+By evaluating options for the huge influx of pumped water (60 gallons per minute), we aim to find suitable water **outfall** environments that would allow the groundwater to be treated continuously at the Santa Susana Field Laboratory.
 </div></div>
 <br />
 <br />
