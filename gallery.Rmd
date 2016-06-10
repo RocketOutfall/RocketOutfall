@@ -1,0 +1,16 @@
+---
+title: "Photo Gallery"
+output:
+  html_document:
+    toc: false
+    css: bootstrap/css/bootstrap-theme2.css
+---
+
+### Plants at SSFL
+
+<div class = "row">
+  <div class="col-sm-6"><img src=images/Plants/Species6.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
+  <div class="col-sm-6"><img src=images/Plants/Species5.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
+  <div class="col-sm-6"><img src=images/Plants/Species9.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
+  <div class="col-sm-6"><img src=images/Plants/Species8.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
+</div>
