@@ -1,5 +1,5 @@
 ---
-title: "RocketOutfall"
+title: ""
 output:
   html_document:
     toc: false
