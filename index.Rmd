@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "RocketOutfall"
 output:
   html_document:
     toc: false
@@ -8,16 +8,20 @@ output:
       in_header: header.md
 --- 
 
-<div style="width: 100%; height: 475px; color: #FFF; display:flex; justify-content:center; align-items:center; text-align: center;">
+<div style="width: 100%; height: 375px; color: #FFF; display:flex; justify-content:center; align-items:center; text-align: center;">
 
 <span style="font-family: Oswald, bold; font-size: 80px;">PREVENT DAYLIGHTING</span>
 <br />
 <span style="font-family: Courgette; font-size: 23px;">Finding water management solutions for continual groundwater treatment</span>
-
+<br />
+<br />
+<br />
 </div>
 <div style="text-align: center">
 <a href="#project-background" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-star" aria-hidden="true"></span> Learn More</a>
 </div>
+<br />
+<br />
 <br />
 <br />
 <br />
