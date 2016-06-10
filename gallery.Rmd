@@ -8,6 +8,11 @@ output:
 
 ### Plants at SSFL
 
+  <div class = "row">
+  <div class="col-sm-6"><img src=images/Plants/SpeciesX.jpg    class="img-rounded" img class="img-responsive" width=400, height=300></div>
+  <div class="col-sm-6"><img src=images/Plants/Wildcucumber.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
+</div>
+<br />
 <div class = "row">
   <div class="col-sm-6"><img src=images/Plants/Species6.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
   <div class="col-sm-6"><img src=images/Plants/Species5.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
@@ -16,4 +21,24 @@ output:
   <div class = "row">
   <div class="col-sm-6"><img src=images/Plants/Species9.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
   <div class="col-sm-6"><img src=images/Plants/Species8.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
+</div>
+<br />
+  <div class = "row">
+  <div class="col-sm-6"><img src=images/Plants/californiaBushSunflower.jpg    class="img-rounded" img class="img-responsive" width=400, height=300></div>
+  <div class="col-sm-6"><img src=images/Plants/conejoMonkeyFlower.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
+</div>
+<br />
+  <div class = "row">
+  <div class="col-sm-6"><img src=images/Plants/GoldenYarrow.jpg    class="img-rounded" img class="img-responsive" width=400, height=300></div>
+  <div class="col-sm-6"><img src=images/Plants/Invasivesp1.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
+</div>
+<br />
+  <div class = "row">
+  <div class="col-sm-6"><img src=images/Plants/Species1.jpg    class="img-rounded" img class="img-responsive" width=400, height=300></div>
+  <div class="col-sm-6"><img src=images/Plants/Species2.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
+</div>
+<br />
+  <div class = "row">
+  <div class="col-sm-6"><img src=images/Plants/Species3.jpg    class="img-rounded" img class="img-responsive" width=400, height=300></div>
+  <div class="col-sm-6"><img src=images/Plants/Species4.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
 </div>
