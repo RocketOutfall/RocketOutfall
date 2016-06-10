@@ -24,6 +24,10 @@ body {
     background-size: contain;
 }
 
+.title {
+  visibility: hidden;
+}
+
 .level1 {
   vertical-align: center;
   color: white;
