@@ -28,26 +28,23 @@ output:
 ##Project Background
 <div style="row">
 <div class="col-sm-4"><img src=images/bgcrop.jpg class="img-rounded" width=250 height=300 /></div>
-<div>
-The Santa Susana Field Laboratory (SSFL) was a **rocket** engine development and testing site for nearly 60 years, building rockets that sent astronauts to the Moon. The industrial chemicals used during rocket engine testing, namely tetrachloroethylene (TCE), contaminated the groundwater and settled into the fractures and pores of the sandstone bedrock. The Boeing Company, as the current owner of the property, is committed to managing the groundwater and contaminant plums at the 2,850 acre site. Mitigation of groundwater contamination is expected to continue for decades. 
+<div style="text-align: justify">
+The Santa Susana Field Laboratory was a rocket engine development and testing site for nearly 60 years. Industrial chemicals used during testing contaminated the groundwater and settled into the fractures and pores of the sandstone bedrock. The Boeing Company, as the current owner of the property, is managing the groundwater and contaminant plumes at the 2,850 acre site.
 </div></div>
 
 ##Problem
 <div style="row">
 <div class="col-sm-4"><img src=images/RedWingedBlackbirdcrop.jpg class="img-rounded" width=250 height=300 /></div>
-<div>
-Groundwater management at SSFL includes the prevention of **daylighting** – above ground channelization – contaminated water. To achieve this goal, Boeing has elected to pump and treat groundwater to drawdown water levels below surface springs. Unfortunately, there is not, at present, a sustainable location to **outfall** treated groundwater, and treatment operations are sporadic.
+<div style="text-align: justify">
+**Daylighting** is when water in the ground finds a way back to flow on the surface. At Santa Susana daylighting means that contaminants in the aquifer would "see the light of day," potentially exposing wildlife or humans. Boeing has to pump out groundwater so that water levels stay below surface springs, where the contaminated water could daylight. There is currently no approved plan to deal with the pumped water, which is treated to filter out the contaminant. As a result, groundwater treatment has been sporadic.
 </div></div>
-<br />
-<br />
 
 ##Finding Solutions
 <div style="row">
 <div class="col-sm-4"><img src=images/lizardcrop.jpg class="img-rounded" width=250 height=300 /></div>
-<div>
-By providing an analysis of possible options, this research aims to find a suitable outfall environment that would allow continual groundwater treatment at the Santa Susana Field Laboratory
+<div style="text-align: justify">
+By evaluating possible ways to deal with the huge influx of water (60 gallons per minute), this research aims to find suitable water *outfall* environments that would allow groundwater to be treated continuously at the Santa Susana Field Laboratory.
 </div></div>
-<br />
 <br />
 <br />
 
