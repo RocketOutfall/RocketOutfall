@@ -13,19 +13,29 @@ E-mail: rocketoutfall@lists.bren.ucsb.edu
 ## Bren Working Group
 ### Elise Wall
 #### Project Manager
-
+<div style="width:150px">
+![](C:\Users\Sodavy\Pictures\RocketOutfall\Elise.png)
+</div>
 Elise is interested in remediation programs associated with technological advances. She has a strong analytical streak, is a capable programmer, wet-bench chemist, and visual artist. Currently, she is pursuing a Master's focused on Pollution Prevention and Remediation at UCSB's Bren School of Environmental Science and Management. Previously she recieved her B.S. in Biological Chemistry from Beloit College, and spent three years building professional experience with Global and U.S. Federal Chemical Regulatory Compliance, Wet/Bench Chemistry and Protocol Design, Data Analysis, Database Management, Process Automation, and Scientific Instrument Operations and Repair.
 
 ### Lina Barbosa
 #### Data Manager
+<div style="width:150px">
+![](C:\Users\Sodavy\Pictures\RocketOutfall\Lina.png)
+</div>
 Lina's research interests include environmental equity and statisitcal analysis of enironmental problems. As a master's student at Bren, Lina is specializing in Conservation Planning.
 
 ### Alex Tremblay
 #### Financial Manager
-Alex has a background in classical French cuisine, ecology and native habitat restoration. He has a B.S. in Environmental Studies with a focus in terrestrial ecology, community sustainability and professional writing from the University of California, Santa Barbara. His focus of study at the Bren School is Pollution Prevention and Remediation. He hopes to work with companies and community organizations to reduce the pollution footprint of industrial and urban activities. 
+<div style="width:150px">
+![](C:\Users\Sodavy\Pictures\RocketOutfall\Alex.png)
+</div>Alex has a background in classical French cuisine, ecology and native habitat restoration. He has a B.S. in Environmental Studies with a focus in terrestrial ecology, community sustainability and professional writing from the University of California, Santa Barbara. His focus of study at the Bren School is Pollution Prevention and Remediation. He hopes to work with companies and community organizations to reduce the pollution footprint of industrial and urban activities. 
 
 ### Sodavy Ou
 #### Chief Editor
+<div style="width:150px">
+![](C:\Users\Sodavy\Pictures\RocketOutfall\Sodavy.jpg)
+</div>
 Sodavy loves running around in the Redwoods and along California's beaches. She has a B.A. in Environmental Studies/Biology from UC Santa Cruz and worked in marine and energy conservation. Currently, she is pursuing a Master's Degree from UC Santa Barbara's Bren School of Enironmental Science & Management. Sodavy is interested in pollution prevention and remediation, specifically in the transport of pollution in rivers and streams.   
 
 ## Advisors
