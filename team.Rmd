@@ -5,15 +5,6 @@ output:
     toc: false
     css: bootstrap/css/bootstrap-theme2.css
 ---
-<!DOCTYPE html>
-<html>
-<head>
-   <title>Try v1.2 Bootstrap Online</title>
-   <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-   <script src="/scripts/jquery.min.js"></script>
-   <script src="/bootstrap/js/bootstrap.min.js"></script>
-</head>
-<body>
 ***
 ### Contact
 E-mail: rocketoutfall@lists.bren.ucsb.edu
