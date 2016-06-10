@@ -1,5 +1,5 @@
 ---
-title: "RocketOutfall"
+title: ""
 output:
   html_document:
     toc: false
@@ -27,10 +27,10 @@ output:
 <br />
 
 ##Project Background
-The Santa Susana Field Laboratory (SSFL) was a ***rocket*** engine development and testing site for nearly 60 years, building rockets that sent astronauts to the Moon. The industrial chemicals used during rocket engine testing, namely tetrachloroethylene (TCE), contaminated the groundwater and settled into the fractures and pores of the sandstone bedrock. The Boeing Company, as the current owner of the property, is committed to managing the groundwater and contaminant plums at the 2,850 acre site. Mitigation of groundwater contamination is expected to continue for decades. 
+The Santa Susana Field Laboratory (SSFL) was a **rocket** engine development and testing site for nearly 60 years, building rockets that sent astronauts to the Moon. The industrial chemicals used during rocket engine testing, namely tetrachloroethylene (TCE), contaminated the groundwater and settled into the fractures and pores of the sandstone bedrock. The Boeing Company, as the current owner of the property, is committed to managing the groundwater and contaminant plums at the 2,850 acre site. Mitigation of groundwater contamination is expected to continue for decades. 
 
 ##Problem
-Groundwater management at SSFL includes the prevention of ***daylighting*** – above ground channelization – contaminated water. To achieve this goal, Boeing has elected to pump and treat groundwater to drawdown water levels below surface springs. Unfortunately, there is not, at present, a sustainable location to ***outfall*** treated groundwater, and treatment operations are sporadic.
+Groundwater management at SSFL includes the prevention of **daylighting** – above ground channelization – contaminated water. To achieve this goal, Boeing has elected to pump and treat groundwater to drawdown water levels below surface springs. Unfortunately, there is not, at present, a sustainable location to **outfall** treated groundwater, and treatment operations are sporadic.
 
 ##Finding Solutions
 By providing an analysis of possible options, this research aims to find a suitable outfall environment that would allow continual groundwater treatment at the Santa Susana Field Laboratory
