@@ -13,7 +13,9 @@ output:
 <br />
 <span style="font-family: Courgette; font-size: 23px;">Finding water management solutions for continual groundwater treatment</span>
 </div>
+
 <div style="height: 350px"></div>
+
 <div style="text-align: center">
 <a href="#project-background" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-star" aria-hidden="true"></span> Learn More</a>
 </div>
@@ -25,14 +27,14 @@ output:
 
 ##Project Background
 <div style="row">
-<div class="col-sm-4"><img src=images/TestStand1.jpg class="img-rounded" width=250 height=300 /></div>
+<div class="col-sm-4"><img src=images/bgcrop.jpg class="img-rounded" width=250 height=300 /></div>
 <div>
 The Santa Susana Field Laboratory (SSFL) was a **rocket** engine development and testing site for nearly 60 years, building rockets that sent astronauts to the Moon. The industrial chemicals used during rocket engine testing, namely tetrachloroethylene (TCE), contaminated the groundwater and settled into the fractures and pores of the sandstone bedrock. The Boeing Company, as the current owner of the property, is committed to managing the groundwater and contaminant plums at the 2,850 acre site. Mitigation of groundwater contamination is expected to continue for decades. 
 </div></div>
 
 ##Problem
 <div style="row">
-<div class="col-sm-4"><img src=images/lizard.jpg class="img-rounded" width=250 height=300 /></div>
+<div class="col-sm-4"><img src=images/RedWingedBlackbirdcrop.jpg class="img-rounded" width=250 height=300 /></div>
 <div>
 Groundwater management at SSFL includes the prevention of **daylighting** – above ground channelization – contaminated water. To achieve this goal, Boeing has elected to pump and treat groundwater to drawdown water levels below surface springs. Unfortunately, there is not, at present, a sustainable location to **outfall** treated groundwater, and treatment operations are sporadic.
 </div></div>
@@ -41,7 +43,7 @@ Groundwater management at SSFL includes the prevention of **daylighting** – ab
 
 ##Finding Solutions
 <div style="row">
-<div class="col-sm-4"><img src=images/RedWingedBlackbird.jpg class="img-rounded" width=250 height=300 /></div>
+<div class="col-sm-4"><img src=images/lizardcrop.jpg class="img-rounded" width=250 height=300 /></div>
 <div>
 By providing an analysis of possible options, this research aims to find a suitable outfall environment that would allow continual groundwater treatment at the Santa Susana Field Laboratory
 </div></div>
