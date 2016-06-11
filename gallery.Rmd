@@ -1,12 +1,12 @@
 ---
-title: "Photo Gallery"
+title: "Biodiversity at Santa Susana"
 output:
   html_document:
     toc: false
     css: bootstrap/css/bootstrap-theme2.css
 ---
 
-### Plants at SSFL
+### Plant Diversity
 
   <div class = "row">
   <div class="col-sm-6"><img src=images/Plants/SpeciesX.jpg    class="img-rounded" img class="img-responsive" width=400, height=300></div>
@@ -42,3 +42,16 @@ output:
   <div class="col-sm-6"><img src=images/Plants/Species3.jpg    class="img-rounded" img class="img-responsive" width=400, height=300></div>
   <div class="col-sm-6"><img src=images/Plants/Species4.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
 </div>
+
+### Animal Diversity
+
+  <div class = "row">
+  <div class="col-sm-6"><img src=images/Animals/Lizard.jpg    class="img-rounded" img class="img-responsive" width=400, height=300></div>
+  <div class="col-sm-6"><img src=images/Animals/redbird1.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
+</div>
+<br />
+  <div class = "row">
+  <div class="col-sm-6"><img src=images/Animals/Snake.jpg class="img-rounded" img class="img-responsive" width=400, height=300></div>
+</div>
+
+
