@@ -55,10 +55,11 @@ body {
 .level2 {
   background-color: rgba(255, 255, 255, 1);
   padding: 6px;
+  padding-top: 12px;
   color: black;
-  padding-left: 12px;
-  padding-right: 12px;
-  border-radius: 6px;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 12px;
   margin-bottom: 12px;
 }
 
