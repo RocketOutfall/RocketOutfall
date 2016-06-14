@@ -28,7 +28,7 @@ Elise is interested in remediation programs associated with technological advanc
   <div>
 ### Lina Barbosa
 #### Data Manager
-Lina Barbosa is originally from Bogotá, Colombia. She has two bachelor degrees of science in biology and microbiology from Universidad de Los Andes, Colombia. While doing her undergraduate studies, she jointed the microbiological research center at Universidad de Los Andes, to work with projects related to soil bioremediation. After graduating, Lina worked for two years with private corporations as an environmental supervisor in charge of environmental mitigation programs, mainly those that involved restoration ecology. Currently, Lina is pursuing a Master's in Environmental Science and Management at the Bren School. Her main interests are water resources management and social equity in an environmental context. 
+Lina Barbosa is originally from Bogotá, Colombia. She has two bachelor degrees of science in biology and microbiology from Universidad de Los Andes, Colombia. While doing her undergraduate studies, she jointed the microbiological research center at Universidad de Los Andes, to work with projects related to soil bioremediation. After graduating, Lina worked for two years with private corporations as an environmental supervisor in charge of environmental mitigation programs, mainly those that involved restoration ecology. Currently, Lina is pursuing a Master's in Environmental Science and Management at the Bren School. Her main interests are water resources management and social equity in an environmental context.
 </div></div>
 <br /><br />
 <div class="row">
@@ -38,7 +38,7 @@ Lina Barbosa is originally from Bogotá, Colombia. She has two bachelor degrees 
   <div>
 ### Alex Tremblay
 #### Financial Manager
-Alex has a background in classical French cuisine, ecology and native habitat restoration. He has a B.S. in Environmental Studies with a focus in terrestrial ecology, community sustainability and professional writing from the University of California, Santa Barbara. His focus of study at the Bren School is Pollution Prevention and Remediation. He hopes to work with companies and community organizations to reduce the pollution footprint of industrial and urban activities. 
+Alex has a background in classical French cuisine, ecology and native habitat restoration. He has an A.S. in Culinary Arts and a B.S. in Environmental Studies with a focus in terrestrial ecology, community sustainability and professional writing from the University of California Santa Barbara. As a chef, he was concerned about the environmental impacts from the national food system and emphasized the use of local, sustainable ingredients in menu design. He returned to college with a strong interest in working on environmental issues. As an ecological field coordinator, he managed native habitat restoration projects, specifically seasonal wetland and associated upland ecosystems. His focus of study at the Bren School is Pollution Prevention <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Remediation. He hopes to work  with companies and community organizations to reduce the pollution footprint of <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; industrial and urban activities.
 </div></div>
 <br /><br />
 <div class="row">
@@ -76,6 +76,7 @@ Thomas Dunne conducts field and theoretical research in fluvial geomorphology an
   <div>
 ### Colleen Devlin
 #### PhD Advisor
+Colleen Devlin is a second year PhD student at the Bren School of Environmental Science & Management. Concentrating in political science, she examines the nexus of foreign aid, community empowerment, and natural resources in the Horn of Africa.  Prior to arriving at Bren, she was involved in integrated water resource management research in the oases villages of Egypt's Western Desert. 
 </div></div>
 <br /><br />
 <div class="row">
