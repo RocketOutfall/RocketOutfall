@@ -13,7 +13,7 @@ E-mail: rocketoutfall@lists.bren.ucsb.edu
 
 <div class="row">
   <div class="col-md-2">
-  <img src=images/Elise.png class="img-rounded" />
+  <img src=images/Elise.png class="img-rounded" width="130" height="130"/>
   </div>
   <div>
 ### Elise Wall
@@ -23,7 +23,7 @@ Elise is interested in remediation programs associated with technological advanc
 <br /><br />
 <div class="row">
   <div class="col-md-2">
-  <img src=images/Lina.png class="img-rounded" />
+  <img src=images/Lina.png class="img-rounded" width="130" height="130"/>
   </div>
   <div>
 ### Lina Barbosa
@@ -33,7 +33,7 @@ Lina Barbosa is originally from Bogotá, Colombia. She has two bachelor degrees 
 <br /><br />
 <div class="row">
   <div class="col-md-2">
-  <img src=images/Alex.png class="img-rounded" />
+  <img src=images/Alex.png class="img-rounded" width="130" height="130"/>
   </div>
   <div>
 ### Alex Tremblay
@@ -43,7 +43,7 @@ Alex has a background in classical French cuisine, ecology and native habitat re
 <br /><br />
 <div class="row">
   <div class="col-md-2">
-  <img src=images/Sodavy.jpg class="img-rounded" />
+  <img src=images/Sodavy.jpg class="img-rounded" width="130" height="130"/>
   </div>
   <div>
 ### Sodavy Ou
@@ -61,7 +61,7 @@ Sodavy loves running around in the Redwoods and along California's beaches. She 
 <br />
 <div class="row">
   <div class="col-md-2">
-  <img src=images/Tom.jpg class="img-rounded" />
+  <img src=images/Tom.jpg class="img-rounded" width="130" height="130"/>
   </div>
 <div>
 ### Thomas Dunne
@@ -71,7 +71,7 @@ Thomas Dunne conducts field and theoretical research in fluvial geomorphology an
 <br /><br />
 <div class="row">
   <div class="col-md-2">
-  <img src=images/Colleen.jpg class="img-rounded" />
+  <img src=images/Colleen.jpg class="img-rounded" width="130" height="130"/>
   </div>
   <div>
 ### Colleen Devlin
@@ -81,7 +81,7 @@ Colleen Devlin is a second year PhD student at the Bren School of Environmental 
 <br /><br />
 <div class="row">
   <div class="col-md-2">
-  <img src=images/Frank.jpg class="img-rounded" />
+  <img src=images/Frank.jpg class="img-rounded" width="130" height="130"/>
   </div>
   <div>
 ### Frank Davis 
@@ -91,7 +91,7 @@ Frank Davis brings conservation science and geographical analysis to bear in lan
 <br /><br />
 <div class="row">
   <div class="col-md-2">
-  <img src=images/Naomi.jpg class="img-rounded" />
+  <img src=images/Naomi.jpg class="img-rounded" width="130" height="130"/>
   </div>
   <div>
 ### Christina (Naomi) Tague
