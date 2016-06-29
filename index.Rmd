@@ -29,21 +29,30 @@ output:
 <div style="row">
 <div class="col-sm-4"><img src=images/bgcrop.jpg class="img-rounded" width=250 height=300 /></div>
 <div style="text-align: justify">
-The Santa Susana Field Laboratory was a rocket engine development and testing site for nearly 60 years. Industrial chemicals used during testing contaminated the groundwater and settled into the fractures and pores of the sandstone bedrock. The Boeing Company, as the current owner of the property, is managing the groundwater and contaminant plumes at the 2,850 acre site.
+The Santa Susana Field Laboratory was a rocket engine development and testing site for nearly 60 years. These rockets were used in America. Industrial chemicals used during testing contaminated the groundwater and settled into the fractures and pores of the sandstone bedrock. The Boeing Company, as the current owner of the property, will continue to manage the groundwater and contaminant plumes at the 2,850 acre site for the foreseeable future.
 </div></div>
 
 ##Problem
 <div style="row">
 <div class="col-sm-4"><img src=images/RedWingedBlackbirdcrop.jpg class="img-rounded" width=250 height=300 /></div>
 <div style="text-align: justify">
-**Daylighting** is when water in the ground finds a way back to flow on the surface. At Santa Susana daylighting means that contaminants in the aquifer would "see the light of day," potentially exposing wildlife or humans. Boeing has to pump out groundwater so that water levels stay below surface springs, where the contaminated water could daylight. There is currently no approved plan to deal with the pumped water, which is treated to filter out the contaminant. As a result, groundwater treatment has been sporadic.
+Boeing has to pump groundwater to maintain water levels below surface springs. Otherwise, heavy rains could cause the contaminated water to rise and flow on the surface, known as **daylighting.** There is currently no long-term strategy to manage the pumped water, which is treated to remove contaminants. As a result, groundwater pumping has been sporadic. 
+
+The two issues:
+
+1) If groundwater is not pumped, daylighting could occur.
+2) If the discharge of pumped water is improperly managed, existing habitats could be adversely impacted.
+
 </div></div>
 
 ##Finding Solutions
 <div style="row">
 <div class="col-sm-4"><img src=images/lizardcrop.jpg class="img-rounded" width=250 height=300 /></div>
 <div style="text-align: justify">
-By evaluating options for the huge influx of pumped water (60 gallons per minute), we aim to find suitable water **outfall** environments that would allow the groundwater to be treated continuously at the Santa Susana Field Laboratory.
+By evaluating options for the influx of pumped water, we aim to find suitable water **outfall** environments that would allow the groundwater to be treated continuously at the Santa Susana Field Laboratory. 
+
+In addition, we will investigate creative uses for the water — The projected amount of water could even support water-deprived ecosystems. 
+
 </div></div>
 <br />
 <br />
@@ -52,7 +61,6 @@ By evaluating options for the huge influx of pumped water (60 gallons per minute
 1.	Evaluate how channel flow from the discharge of treated groundwater might influence soil moisture and vegetation communities by transforming ephemeral channels into perennial streambeds.
 
 2.  Investigate useful alternatives to the proposed surface discharge.
-
 
 ##Client: Boeing
 Boeing is currently running the remedation activites at the Santa Susana site.
