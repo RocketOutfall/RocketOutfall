@@ -11,7 +11,7 @@ E-mail: rocketoutfall@lists.bren.ucsb.edu
 
 ## Bren Working Group
 
-<div class="row">
+<div class="row" style="text-align: justify">
   <div class="col-md-2">
   <img src=images/Elise.png class="img-rounded" width="130" height="130"/>
   </div>
@@ -21,7 +21,7 @@ E-mail: rocketoutfall@lists.bren.ucsb.edu
 Elise is interested in remediation programs associated with technological advances. She has a strong analytical streak, is a capable programmer, wet-bench chemist, and visual artist. Currently, she is pursuing a Master's focused on Pollution Prevention and Remediation at UCSB's Bren School of Environmental Science and Management. Previously she recieved her B.S. in Biological Chemistry from Beloit College, and spent three years building professional experience with Global and U.S. Federal Chemical Regulatory Compliance, Wet/Bench Chemistry and Protocol Design, Data Analysis, Database Management, Process Automation, and Scientific Instrument Operations and Repair.
 </div></div>
 <br /><br />
-<div class="row">
+<div class="row" style="text-align: justify">
   <div class="col-md-2">
   <img src=images/Lina.png class="img-rounded" width="130" height="130"/>
   </div>
@@ -31,7 +31,7 @@ Elise is interested in remediation programs associated with technological advanc
 Lina Barbosa is originally from Bogotá, Colombia. She has two bachelor degrees of science in biology and microbiology from Universidad de Los Andes, Colombia. While doing her undergraduate studies, she jointed the microbiological research center at Universidad de Los Andes, to work with projects related to soil bioremediation. After graduating, Lina worked for two years with private corporations as an environmental supervisor in charge of environmental mitigation programs, mainly those that involved restoration ecology. Currently, Lina is pursuing a Master's in Environmental Science and Management at the Bren School. Her main interests are water resources management and social equity in an environmental context.
 </div></div>
 <br /><br />
-<div class="row">
+<div class="row" style="text-align: justify">
   <div class="col-md-2">
   <img src=images/Alex.png class="img-rounded" width="130" height="130"/>
   </div>
@@ -41,7 +41,7 @@ Lina Barbosa is originally from Bogotá, Colombia. She has two bachelor degrees 
 Alex has a background in classical French cuisine, ecology and native habitat restoration. He has an A.S. in Culinary Arts and a B.S. in Environmental Studies with a focus in terrestrial ecology, community sustainability and professional writing from the University of California Santa Barbara. As a chef, he was concerned about the environmental impacts from the national food system and emphasized the use of local, sustainable ingredients in menu design. He returned to college with a strong interest in working on environmental issues. As an ecological field coordinator, he managed native habitat restoration projects, specifically seasonal wetland and associated upland ecosystems. His focus of study at the Bren School is Pollution Prevention and Remediation. He hopes to work with companies and community organizations to reduce the pollution footprint of industrial and urban activities.
 </div></div>
 <br /><br />
-<div class="row">
+<div class="row" style="text-align: justify">
   <div class="col-md-2">
   <img src=images/Sodavy.jpg class="img-rounded" width="130" height="130"/>
   </div>
@@ -59,7 +59,7 @@ Sodavy loves running around in the Redwoods and along California's beaches. She 
 ## Advisors
 
 <br />
-<div class="row">
+<div class="row" style="text-align: justify">
   <div class="col-md-2">
   <img src=images/Tom.jpg class="img-rounded" width="130" height="130"/>
   </div>
@@ -69,7 +69,7 @@ Sodavy loves running around in the Redwoods and along California's beaches. She 
 Thomas Dunne conducts field and theoretical research in fluvial geomorphology and in the application of hydrology, sediment transport, and geomorphology to landscape management and hazard analysis. Since coming to the Bren School in 1996, Professor Dunne has studied erosion in the Andes, and hydrology, sediment transport, and floodplain sedimentation in the Amazon River basin of Brazil and Bolivia and the Central Valley of California.
 </div></div>
 <br /><br />
-<div class="row">
+<div class="row" style="text-align: justify">
   <div class="col-md-2">
   <img src=images/Colleen.jpg class="img-rounded" width="130" height="130"/>
   </div>
@@ -79,7 +79,7 @@ Thomas Dunne conducts field and theoretical research in fluvial geomorphology an
 Colleen Devlin is a second year PhD student at the Bren School of Environmental Science & Management. Concentrating in political science, she examines the nexus of foreign aid, community empowerment, and natural resources in the Horn of Africa.  Prior to arriving at Bren, she was involved in integrated water resource management research in the oases villages of Egypt's Western Desert. 
 </div></div>
 <br /><br />
-<div class="row">
+<div class="row" style="text-align: justify">
   <div class="col-md-2">
   <img src=images/Frank.jpg class="img-rounded" width="130" height="130"/>
   </div>
@@ -89,7 +89,7 @@ Colleen Devlin is a second year PhD student at the Bren School of Environmental 
 Frank Davis brings conservation science and geographical analysis to bear in land use planning and the conservation of wild species. Davis heads the Biogeography Lab at the Bren School, and his research focuses on the landscape ecology of California plant communities, the design of protected-area network, rangeland and farmland conservation, and the biological implications of regional climate change.
 </div></div>
 <br /><br />
-<div class="row">
+<div class="row" style="text-align: justify">
   <div class="col-md-2">
   <img src=images/Naomi.jpg class="img-rounded" width="130" height="130"/>
   </div>

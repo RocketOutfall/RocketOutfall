@@ -40,6 +40,8 @@ The Santa Susana Field Laboratory was a rocket engine development and testing si
 Heavy rains could cause the underground contaminated water to rise enough to flow on the surface, known as **daylighting.** To prevent this, Boeing has to pump groundwater to keep water levels below surface springs. There is currently no long-term strategy to manage the pumped water, which is treated to remove contaminants. As a result, groundwater pumping has been sporadic. 
 <br />
 <br />
+<br />
+<br />
 The two issues:
 
 1) If groundwater is not pumped, daylighting could occur.
