@@ -29,14 +29,14 @@ output:
 <div style="row">
 <div class="col-sm-4"><img src=images/bgcrop.jpg class="img-rounded" width=250 height=300 /></div>
 <div style="text-align: justify">
-The Santa Susana Field Laboratory was a rocket engine development and testing site for nearly 60 years. These rockets were used in America. Industrial chemicals used during testing contaminated the groundwater and settled into the fractures and pores of the sandstone bedrock. The Boeing Company, as the current owner of the property, will continue to manage the groundwater and contaminant plumes at the 2,850 acre site for the foreseeable future.
+The Santa Susana Field Laboratory was a rocket engine development and testing site for nearly 60 years. Industrial chemicals used during testing contaminated the groundwater and settled into the fractures and pores of the sandstone bedrock. The Boeing Company, as the current owner of the property, is overseeing the transition of the site to a wildlife conservation area. They will continue to manage the groundwater and contaminant plumes at the 2,850 acre site for the foreseeable future.
 </div></div>
 
 ##Problem
 <div style="row">
 <div class="col-sm-4"><img src=images/RedWingedBlackbirdcrop.jpg class="img-rounded" width=250 height=300 /></div>
 <div style="text-align: justify">
-Boeing has to pump groundwater to maintain water levels below surface springs. Otherwise, heavy rains could cause the contaminated water to rise and flow on the surface, known as **daylighting.** There is currently no long-term strategy to manage the pumped water, which is treated to remove contaminants. As a result, groundwater pumping has been sporadic. 
+Heavy rains could cause the underground contaminated water to rise and flow on the surface, known as **daylighting.** To prevent this, Boeing has to pump groundwater to keep water levels below surface springs. There is currently no long-term strategy to manage the pumped water, which is treated to remove contaminants. As a result, groundwater pumping has been sporadic. 
 
 The two issues:
 
@@ -49,7 +49,7 @@ The two issues:
 <div style="row">
 <div class="col-sm-4"><img src=images/lizardcrop.jpg class="img-rounded" width=250 height=300 /></div>
 <div style="text-align: justify">
-By evaluating options for the influx of pumped water, we aim to find suitable water **outfall** environments that would allow the groundwater to be treated continuously at the Santa Susana Field Laboratory. 
+By evaluating options for the influx of pumped water, we aim to find suitable water **outfall** strategies that would allow the groundwater to be treated continuously at the Santa Susana Field Laboratory. 
 
 In addition, we will investigate creative uses for the water — The projected amount of water could even support water-deprived ecosystems. 
 
